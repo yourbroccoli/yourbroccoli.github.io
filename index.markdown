@@ -4,3 +4,5 @@
 
 layout: home
 ---
+Welcome to **ExSaaSperated.com**, the ongoing story of two nerds on a
+quest to start a small business. 🗺🤷‍♀️
