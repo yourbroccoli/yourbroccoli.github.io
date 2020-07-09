@@ -11,9 +11,14 @@ function ShowComments(repo_name, comment_id, page_id)
         success: function(comments, textStatus, jqXHR) {
 
             if (1 == page_id) {
-                // post button 
+                // post button
                 var url = "https://github.com/" + repo_name + "/issues/" + comment_id + "#new_comment_field";
-                $("#gh-comments-list").append("<form action='" + url + "' rel='nofollow'> <input type='submit' value='Post a comment on Github' /> </form>");
+                $("#gh-comments-list").append("<form action='" + url + "' rel='nofollow'> <input type='submit' class='post-comment' value='Post a comment on Github' /> </form>");
+            }
+
+            if (comments === undefined || comments.length == 0) {
+                // array empty or does not exist
+                $("#gh-comments-list").append("<br/><p>No comments yet! Be the first.</p>");
             }
 
             // Individual comments
