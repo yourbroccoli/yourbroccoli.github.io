@@ -37,6 +37,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Set this to a github repository to be used to host comments.
+github_comments_repository:  yourbroccoli/exsaasperated-comments
+
 minima:
   date_format: '%02d-%^b-%Y'
 
