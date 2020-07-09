@@ -2,6 +2,11 @@
 layout: post
 title:  "Hello World! 👋"
 author: Paul
+excerpt: >-
+    This is a brief introductory post.  We want to start a SaaS
+    product, and while there seem to be awfully many "founder stories"
+    around of people magically getting 50k downloads, $10k MRR, etc., we
+    don't often hear about the long, rocky path to sustainable success.
 ---
 Another new blog on the internet -- aren't there already enough of
 those?  [Some would say
@@ -40,6 +45,9 @@ low-budget comments box down below!
 We're just trying to muddle along making our own way here, so we're
 bound to have many a false start, but we are trying something new to
 us -- [join us for the ride][mailchimp], and we'll see what happens!
+
+<br />
+<hr />
 
 [^indie-disadvantage]: It seems like the easiest way to spread the
     word about your fancy new product in this day and age can be via
