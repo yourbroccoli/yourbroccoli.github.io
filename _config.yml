@@ -27,8 +27,8 @@ description: >-
   from our mistakes, so hopefully you don't have to make them.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://exsaasperated.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: null
 github_username:  yourbroccoli
+google_analytics: "UA-170929404-2"
 
 # Build settings
 theme: minima
