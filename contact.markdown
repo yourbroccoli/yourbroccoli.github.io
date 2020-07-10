@@ -18,4 +18,4 @@ There's also our **mailing list** -- [it'd be great if you joined
 that][mailchimp].  We won't be spamming or selling to you, just
 sending you updates on new blog posts.
 
-[mailchimp]: https://mailchi.mp/9b80f5da87c8/exsaasperated-com-newsletter
+[mailchimp]: /mailing-list/

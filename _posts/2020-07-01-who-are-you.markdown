@@ -73,5 +73,5 @@ are cute animals!) to get updates on the blog sent straight to your
 inbox, or left a comment down below.  We're keen for input of any
 kind, so bring it on.  You can also contact us directly.
 
-[mailchimp]: https://mailchi.mp/9b80f5da87c8/exsaasperated-com-newsletter
+[mailchimp]: /mailing-list/
 [cognitive-biases]: https://en.wikipedia.org/wiki/List_of_cognitive_biases

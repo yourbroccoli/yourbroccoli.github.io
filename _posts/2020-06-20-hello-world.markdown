@@ -69,4 +69,4 @@ us -- [join us for the ride][mailchimp], and we'll see what happens!
     focus on their supposed superhuman capabilities.
 
 [contact]: /contact/
-[mailchimp]: https://mailchi.mp/9b80f5da87c8/exsaasperated-com-newsletter
+[mailchimp]: /mailing-list/
