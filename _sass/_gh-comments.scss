@@ -10,6 +10,17 @@ input[type=submit].post-comment {
     border: 2px solid black;
 }
 
+input[type=submit].post-comment:hover {
+    background: darkgreen;
+}
+
+p.nojs {
+    border: 1px dotted black;
+    display: block;
+    padding: 1em;
+    background: lightgrey;
+}
+
 #gh-comments {
     text-align: center;
 }
