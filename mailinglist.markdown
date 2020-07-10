@@ -8,7 +8,7 @@ permalink: /mailing-list/
     <img src="/images/carrot-deer.jpg" class="deardeer">
 </div>
 
-Be the first to read our new posts! 🥕
+## Be the first to read our new posts! 🥕
 
 The ExSaaSperated.com Newsletter is a low-volume mailing list, where
 we'll notify you of new blog posts and occasionally send you news.  We
