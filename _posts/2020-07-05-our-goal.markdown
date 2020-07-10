@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Our goal"
+author: Caitlin
+github_comments_issueid: 4
+excerpt: >-
+    We recently came across the Release Notes podcast, and
+    through that we found out about Marketing for Developers,
+    a book by Justin Jackson. One great point this book makes is that it's important to
+    have a goal. In that spirit, we will try to formulate our goal, and in the spirit of this blog, we're
+    putting it out here in the open.  Maybe that'll keep us accountable!
+---
+
+We recently came across the [Release Notes podcast](https://releasenotes.tv/), and
+through that we found out about  [Marketing for Developers](https://devmarketing.xyz/),
+a book by Justin Jackson.[^jj] One great point this book makes is that it's important to
+have a goal. If you've defined what you want to achieve and why, then you can evaluate
+everything you do on whether it brings you closer to that.
+
+In that spirit, we will try to formulate our goal, and in the spirit of this blog, we're
+putting it out here in the open.  Maybe that'll keep us accountable!
+
+## The goal 🥅
+
+Here's our first attempt:
+
+<blockquote>
+  We want to build a small internet business that pays the bills and gives us the freedom
+  to decide how we spend our time and use our labour. While doing that, we want to respect
+  the freedom, agency, and privacy of our users.
+</blockquote>
+
+## Why? 🤷‍♀️
+
+We don't want to be a unicorn: we want to build a _humble_ internet business. If we can
+build something that makes a modest income and covers our costs of living, we would
+consider that a huge success -- we don't need anything more than that. There are lots of
+examples of this in the offline world; in your local shopping strip you'll find plenty
+of successful businesses that aren't huge corporations with billions of dollars of
+revenue. We think there's no reason this shouldn't be possible for an online business
+too. We'd be happy to be closer to a humble hot dog stand than the next McDonald's.
+
+We want to be sustainable and self-funded. VC funding might give you lots of money to
+play with and open up more opportunities at the start, but it's also a debt and an
+obligation. Starting with just our regular income and savings might make things a lot
+slower and the end goal a bit further away, but we like the idea of having something
+that's truly our own and being able to make decisions based on our own priorities,
+rather than chasing (unsustainable?) growth to deliver a return on someone else's
+investment.
+
+Perhaps our attempts will flounder, but at least we want to have tried.  Stay tuned for
+our next installments, where we try to pick apart some of our recent endeavours, and
+glean general insights from those experiences.
+
+<br>
+<hr>
+
+[^jj]: While we recommend his work for the wealth of practical and actionable advice he gives, aimed specifically at fledgling SaaS companies, we don't agree with everything he says.  In particular, he advocates for what we consider extremely invasive tracking.  Not only on-site behaviour tracking, which already can feel a bit like Big Brother is leaning over your shoulder, but he explicitly suggests sending your users' **name and email** to services such as Google Analytics, Segment.io, and others. 🙅‍♀️  This definitely goes against our values, and is not something we'd be comfortable doing (in fact, it is very likely in breach of the [GDPR rules](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)). You'll notice we _do_ use Google Analytics on this website, which is already something we'd rather avoid, and there are a few very good alternative approaches for that which we'll cover later in this series, so we're aware of the mild hypocrisy.  However, we  are only prepared to share _anonymous_ information with third parties, which is a different class of invasion entirely.
