@@ -1,6 +1,6 @@
 // Original code taken with permission from : https://github.com/dwilliamson/donw.io/blob/master/public/css/main.css
 
-input[type=submit].post-comment {
+input[type=submit].hacky-post-button {
     padding:5px 15px;
     background: lime;
     font-size: 16px;
@@ -8,10 +8,10 @@ input[type=submit].post-comment {
     -webkit-border-radius: 5px;
     border-radius: 5px;
     border: 2px solid black;
-}
 
-input[type=submit].post-comment:hover {
-    background: darkgreen;
+    &:hover {
+        background: darkgreen;
+    }
 }
 
 p.nojs {

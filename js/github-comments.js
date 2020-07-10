@@ -13,7 +13,7 @@ function ShowComments(repo_name, comment_id, page_id)
             if (1 == page_id) {
                 // post button
                 var url = "https://github.com/" + repo_name + "/issues/" + comment_id + "#new_comment_field";
-                $("#gh-comments-list").append("<form action='" + url + "' rel='nofollow'> <input type='submit' class='post-comment' value='Post a comment on Github' /> </form>");
+                $("#gh-comments-list").append("<form action='" + url + "' rel='nofollow'> <input type='submit' class='hacky-post-button' value='Post a comment on Github' /> </form>");
             }
 
             if (comments === undefined || comments.length == 0) {
