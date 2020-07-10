@@ -29,7 +29,6 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://exsaasperated.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  yourbroccoli
-google_analytics: "UA-170929404-2"
 show_excerpts: true
 
 # Build settings
