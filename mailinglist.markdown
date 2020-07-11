@@ -5,7 +5,10 @@ permalink: /mailing-list/
 ---
 
 <div class="deerbox">
+  <figure>
     <img src="/images/carrot-deer.jpg" class="deardeer">
+    <figcaption><a href="https://www.pexels.com/photo/person-feeding-brown-deer-with-carrot-3690509/">Person Feeding Brown Deer with Carrot</a> - Louis on Pexels.</figcaption>
+  </figure>
 </div>
 
 ## Be the first to read our new posts! 🥕
