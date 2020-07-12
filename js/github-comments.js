@@ -25,12 +25,14 @@ function ShowComments(repo_name, comment_id, page_id)
             $.each(comments, function(i, comment) {
 
                 var date = new Date(comment.created_at);
+                var dateStr = date.toISOString().slice(0,10)
+                var timeStr = date.toISOString().slice(11,16)
 
                 var t = "<div id='gh-comment'>";
                 t += "<img src='" + comment.user.avatar_url + "' width='24px'>";
                 t += "<b><a href='" + comment.user.html_url + "'>" + comment.user.login + "</a></b>";
                 t += " on ";
-                t += "<em>" + date.toUTCString() + "</em>";
+                t += "<em>" + dateStr + ", " + timeStr + " UTC</em>";
                 t += "<div id='gh-comment-hr'></div>";
                 t += comment.body_html;
                 t += "</div>";
