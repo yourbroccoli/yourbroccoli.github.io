@@ -29,7 +29,7 @@ function ShowComments(repo_name, comment_id, page_id)
                 var t = "<div id='gh-comment'>";
                 t += "<img src='" + comment.user.avatar_url + "' width='24px'>";
                 t += "<b><a href='" + comment.user.html_url + "'>" + comment.user.login + "</a></b>";
-                t += " posted at ";
+                t += " on ";
                 t += "<em>" + date.toUTCString() + "</em>";
                 t += "<div id='gh-comment-hr'></div>";
                 t += comment.body_html;
