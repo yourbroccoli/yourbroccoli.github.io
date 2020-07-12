@@ -44,8 +44,8 @@ p.comment-explanation {
     margin: 8px 0px;
 }
 
-#gh-comment p {
-    margin:0px;
+#gh-comment > p:last-child {
+    margin-bottom: 0px;
 }
 
 #gh-comment img {
