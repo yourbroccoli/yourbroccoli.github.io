@@ -29,7 +29,7 @@ function ShowComments(repo_name, comment_id, page_id)
                 var timeStr = date.toISOString().slice(11,16)
 
                 var t = "<div id='gh-comment'>";
-                t += "<img src='" + comment.user.avatar_url + "' width='24px'>";
+                t += "<img src='" + comment.user.avatar_url + "' width='48px'>";
                 t += "<b><a href='" + comment.user.html_url + "'>" + comment.user.login + "</a></b>";
                 t += " on ";
                 t += "<em>" + dateStr + ", " + timeStr + " UTC</em>";
